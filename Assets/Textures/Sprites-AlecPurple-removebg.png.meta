@@ -1,0 +1,2016 @@
+fileFormatVersion: 2
+guid: e296a7b92cd99564e84b7159f55f5d96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1938408453660537604
+    second: Sprites-AlecPurple-removebg_0
+  - first:
+      213: 2833938022251708447
+    second: Sprites-AlecPurple-removebg_1
+  - first:
+      213: 7391479133600269352
+    second: Sprites-AlecPurple-removebg_2
+  - first:
+      213: 6888824390351936583
+    second: Sprites-AlecPurple-removebg_3
+  - first:
+      213: 4127030732544208986
+    second: Sprites-AlecPurple-removebg_4
+  - first:
+      213: 2489936639811074082
+    second: Sprites-AlecPurple-removebg_5
+  - first:
+      213: 4552812577303199782
+    second: Sprites-AlecPurple-removebg_6
+  - first:
+      213: 6235458375878601879
+    second: Sprites-AlecPurple-removebg_7
+  - first:
+      213: -6147667806126079675
+    second: Sprites-AlecPurple-removebg_8
+  - first:
+      213: -7938563548067870809
+    second: Sprites-AlecPurple-removebg_9
+  - first:
+      213: 4111322390786923216
+    second: Sprites-AlecPurple-removebg_10
+  - first:
+      213: -6366995845039554611
+    second: Sprites-AlecPurple-removebg_11
+  - first:
+      213: 4105673949816082716
+    second: Sprites-AlecPurple-removebg_12
+  - first:
+      213: 6346097735001887140
+    second: Sprites-AlecPurple-removebg_13
+  - first:
+      213: -7556193811042417856
+    second: Sprites-AlecPurple-removebg_14
+  - first:
+      213: -3598956052545184232
+    second: Sprites-AlecPurple-removebg_15
+  - first:
+      213: 6891236742957173040
+    second: Sprites-AlecPurple-removebg_16
+  - first:
+      213: 5056004605280477224
+    second: Sprites-AlecPurple-removebg_17
+  - first:
+      213: -3458469252493719577
+    second: Sprites-AlecPurple-removebg_18
+  - first:
+      213: -2160572514754131971
+    second: Sprites-AlecPurple-removebg_19
+  - first:
+      213: 1798711305890792958
+    second: Sprites-AlecPurple-removebg_20
+  - first:
+      213: -3416982837532038128
+    second: Sprites-AlecPurple-removebg_21
+  - first:
+      213: -6771939414229496330
+    second: Sprites-AlecPurple-removebg_22
+  - first:
+      213: 7939300158218618995
+    second: Sprites-AlecPurple-removebg_23
+  - first:
+      213: 2914025240830685960
+    second: Sprites-AlecPurple-removebg_24
+  - first:
+      213: 3680842760769637244
+    second: Sprites-AlecPurple-removebg_25
+  - first:
+      213: -2438711794365269684
+    second: Sprites-AlecPurple-removebg_26
+  - first:
+      213: -7760502114696376329
+    second: Sprites-AlecPurple-removebg_27
+  - first:
+      213: 4903057582871896773
+    second: Sprites-AlecPurple-removebg_28
+  - first:
+      213: 1680125970179450771
+    second: Sprites-AlecPurple-removebg_29
+  - first:
+      213: -5211126335356081571
+    second: Sprites-AlecPurple-removebg_30
+  - first:
+      213: 4639730820272591856
+    second: Sprites-AlecPurple-removebg_31
+  - first:
+      213: 8074484492499981571
+    second: Sprites-AlecPurple-removebg_32
+  - first:
+      213: -4537980518561209809
+    second: Sprites-AlecPurple-removebg_33
+  - first:
+      213: 7514571427423476602
+    second: Sprites-AlecPurple-removebg_34
+  - first:
+      213: -1736895145194655383
+    second: Sprites-AlecPurple-removebg_35
+  - first:
+      213: 7120116472595980186
+    second: Sprites-AlecPurple-removebg_36
+  - first:
+      213: 7230995111895735406
+    second: Sprites-AlecPurple-removebg_37
+  - first:
+      213: -7946611911334072253
+    second: Sprites-AlecPurple-removebg_38
+  - first:
+      213: 2465195653611493733
+    second: Sprites-AlecPurple-removebg_39
+  - first:
+      213: -8391556961991446624
+    second: Sprites-AlecPurple-removebg_40
+  - first:
+      213: -3216695681700509043
+    second: Sprites-AlecPurple-removebg_41
+  - first:
+      213: 3425830393134017996
+    second: Sprites-AlecPurple-removebg_42
+  - first:
+      213: -4830034488699932232
+    second: Sprites-AlecPurple-removebg_43
+  - first:
+      213: -891189572491617096
+    second: Sprites-AlecPurple-removebg_44
+  - first:
+      213: -7596987032399311563
+    second: Sprites-AlecPurple-removebg_45
+  - first:
+      213: -1424459126723040390
+    second: Sprites-AlecPurple-removebg_46
+  - first:
+      213: -4487354684476639179
+    second: Sprites-AlecPurple-removebg_47
+  - first:
+      213: 7755345149689491510
+    second: Sprites-AlecPurple-removebg_48
+  - first:
+      213: 974789273715795521
+    second: Sprites-AlecPurple-removebg_49
+  - first:
+      213: -2644315729880521192
+    second: Sprites-AlecPurple-removebg_50
+  - first:
+      213: -600097014048638038
+    second: Sprites-AlecPurple-removebg_51
+  - first:
+      213: 891783629619467687
+    second: Sprites-AlecPurple-removebg_52
+  - first:
+      213: -3063545814327891971
+    second: Sprites-AlecPurple-removebg_53
+  - first:
+      213: -1903647522262933516
+    second: Sprites-AlecPurple-removebg_54
+  - first:
+      213: -2050371331466285728
+    second: Sprites-AlecPurple-removebg_55
+  - first:
+      213: -2561025567606551942
+    second: Sprites-AlecPurple-removebg_56
+  - first:
+      213: -7623920880087191221
+    second: Sprites-AlecPurple-removebg_57
+  - first:
+      213: 1436704799003015864
+    second: Sprites-AlecPurple-removebg_58
+  - first:
+      213: 2001306280006717348
+    second: Sprites-AlecPurple-removebg_59
+  - first:
+      213: 8467981029285140304
+    second: Sprites-AlecPurple-removebg_60
+  - first:
+      213: 2102474288492963494
+    second: Sprites-AlecPurple-removebg_61
+  - first:
+      213: 5951046768805875104
+    second: Sprites-AlecPurple-removebg_62
+  - first:
+      213: -7119698445276977477
+    second: Sprites-AlecPurple-removebg_63
+  - first:
+      213: -3787179390929105068
+    second: Sprites-AlecPurple-removebg_64
+  - first:
+      213: 1626221438022112078
+    second: Sprites-AlecPurple-removebg_65
+  - first:
+      213: -5802675934571621027
+    second: Sprites-AlecPurple-removebg_66
+  - first:
+      213: -7549501572013379753
+    second: Sprites-AlecPurple-removebg_67
+  - first:
+      213: 8599547676577327092
+    second: Sprites-AlecPurple-removebg_68
+  - first:
+      213: -5429130798748604298
+    second: Sprites-AlecPurple-removebg_69
+  - first:
+      213: -9005980536666682434
+    second: Sprites-AlecPurple-removebg_70
+  - first:
+      213: -973908844744289977
+    second: Sprites-AlecPurple-removebg_71
+  - first:
+      213: -5511941194088964826
+    second: Sprites-AlecPurple-removebg_72
+  - first:
+      213: 6771075822899574804
+    second: Sprites-AlecPurple-removebg_73
+  - first:
+      213: 6419273821479462586
+    second: Sprites-AlecPurple-removebg_74
+  - first:
+      213: 5805203479954449680
+    second: Sprites-AlecPurple-removebg_75
+  - first:
+      213: 366866960468781322
+    second: Sprites-AlecPurple-removebg_76
+  - first:
+      213: 6344298656315017137
+    second: Sprites-AlecPurple-removebg_77
+  - first:
+      213: 948898249333250029
+    second: Sprites-AlecPurple-removebg_78
+  - first:
+      213: -2795966076996745775
+    second: Sprites-AlecPurple-removebg_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 449
+        width: 172
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc03f118c36915e0800000000000000
+      internalID: -1938408453660537604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 425
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1049cbcd9b245720800000000000000
+      internalID: 2833938022251708447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 425
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c4fa3c1fc39660800000000000000
+      internalID: 7391479133600269352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 425
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c59f2d8450a9f50800000000000000
+      internalID: 6888824390351936583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 425
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fa66d598264930800000000000000
+      internalID: 4127030732544208986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 397
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2283b218e280e8220800000000000000
+      internalID: 2489936639811074082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 394
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620861fcae6de2f30800000000000000
+      internalID: 4552812577303199782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 438
+        width: 138
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6af12b5cc88650800000000000000
+      internalID: 6235458375878601879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 397
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54100cab3b81faaa0800000000000000
+      internalID: -6147667806126079675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 394
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cc8a638e84d190800000000000000
+      internalID: -7938563548067870809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 375
+        width: 187
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad6f38ee95e0930800000000000000
+      internalID: 4111322390786923216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 399
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf77024303e3a7a0800000000000000
+      internalID: -6366995845039554611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 398
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11dc5e54b84af830800000000000000
+      internalID: 4105673949816082716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 399
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d2b4544ed11850800000000000000
+      internalID: 6346097735001887140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 399
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043cfc663c1032790800000000000000
+      internalID: -7556193811042417856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 383
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5dcdc980fd0ec0800000000000000
+      internalID: -3598956052545184232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 396
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039051f6e4792af50800000000000000
+      internalID: 6891236742957173040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 394
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206b7096698a2640800000000000000
+      internalID: 5056004605280477224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 379
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74082e98c0100d0800000000000000
+      internalID: -3458469252493719577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 379
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78b9abeba1402e0800000000000000
+      internalID: -2160572514754131971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 379
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58919176e46f810800000000000000
+      internalID: 1798711305890792958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 379
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ceb4596307490d0800000000000000
+      internalID: -3416982837532038128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 285
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd42666bfc3502a0800000000000000
+      internalID: -6771939414229496330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 285
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c2dffd6f0e2e60800000000000000
+      internalID: 7939300158218618995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 285
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8033c327482b07820800000000000000
+      internalID: 2914025240830685960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 284
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0ebd2dfaf41330800000000000000
+      internalID: 3680842760769637244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 284
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497d4b3b84f72ed0800000000000000
+      internalID: -2438711794365269684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 286
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffcade81782d4490800000000000000
+      internalID: -7760502114696376329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 284
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c26d54e4e82b0440800000000000000
+      internalID: 4903057582871896773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 284
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397647e0ba1015710800000000000000
+      internalID: 1680125970179450771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 284
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aea6d253c5ea7b0800000000000000
+      internalID: -5211126335356081571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 285
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f397c34992a36040800000000000000
+      internalID: 4639730820272591856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 286
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059cdf8dd45e0070800000000000000
+      internalID: 8074484492499981571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 282
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222489f2cad501c0800000000000000
+      internalID: -4537980518561209809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 281
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b50ea36ee194860800000000000000
+      internalID: 7514571427423476602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 281
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617292611f45e7e0800000000000000
+      internalID: -1736895145194655383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 281
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9d74353cbfc260800000000000000
+      internalID: 7120116472595980186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 281
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c91292eb7a95460800000000000000
+      internalID: 7230995111895735406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 282
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3407b01d196f7b190800000000000000
+      internalID: -7946611911334072253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 281
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5699953c262263220800000000000000
+      internalID: 2465195653611493733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2b0847633b8b80800000000000000
+      internalID: -8391556961991446624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 281
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a45bdf1500c53d0800000000000000
+      internalID: -3216695681700509043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 281
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6d7b779efa8f20800000000000000
+      internalID: 3425830393134017996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 281
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b720293548fcb0800000000000000
+      internalID: -4830034488699932232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcda183ecbd1a3f0800000000000000
+      internalID: -891189572491617096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 195
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d079a6b84129690800000000000000
+      internalID: -7596987032399311563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2c9aa8fd4b3ce0800000000000000
+      internalID: -1424459126723040390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 194
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b59280b6b9b1c0800000000000000
+      internalID: -4487354684476639179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 195
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6307ac5f25580ab60800000000000000
+      internalID: 7755345149689491510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 195
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e0b60ea5278d00800000000000000
+      internalID: 974789273715795521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166e769ad08d4bd0800000000000000
+      internalID: -2644315729880521192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 194
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabbbd6f1f60ca7f0800000000000000
+      internalID: -600097014048638038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 191
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51afb7c70406c00800000000000000
+      internalID: 891783629619467687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 191
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e9df20591c75d0800000000000000
+      internalID: -3063545814327891971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 192
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff17f91aa2e495e0800000000000000
+      internalID: -1903647522262933516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 192
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dae4a232e9b83e0800000000000000
+      internalID: -2050371331466285728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 192
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4e1ea0d8657cd0800000000000000
+      internalID: -2561025567606551942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4138b25a54623690800000000000000
+      internalID: -7623920880087191221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 106
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7ca7176330f310800000000000000
+      internalID: 1436704799003015864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0f82557116cb10800000000000000
+      internalID: 2001306280006717348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 124
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057994f71ef448570800000000000000
+      internalID: 8467981029285140304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 125
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e30bd93d7d2d10800000000000000
+      internalID: 2102474288492963494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 125
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad0968918d569250800000000000000
+      internalID: 5951046768805875104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 159
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66d5d5cffb13d90800000000000000
+      internalID: -7119698445276977477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 156
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8df6c86c317bc0800000000000000
+      internalID: -3787179390929105068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 103
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43de6328cf719610800000000000000
+      internalID: 1626221438022112078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 103
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55962d3bf0c87fa0800000000000000
+      internalID: -5802675934571621027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 103
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa3e8b158ca3790800000000000000
+      internalID: -7549501572013379753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 88
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76d6bac0bb75770800000000000000
+      internalID: 8599547676577327092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 85
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e475ad4ad7a4b0800000000000000
+      internalID: -5429130798748604298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb86e9ea64540380800000000000000
+      internalID: -9005980536666682434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d761d01bfb72f0800000000000000
+      internalID: -973908844744289977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 19
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1c7fffa6a183b0800000000000000
+      internalID: -5511941194088964826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 19
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4183a231691b7fd50800000000000000
+      internalID: 6771075822899574804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 19
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66f35a787d51950800000000000000
+      internalID: 6419273821479462586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 16
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015eb87cec9309050800000000000000
+      internalID: 5805203479954449680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 16
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a19a8e8f571500800000000000000
+      internalID: 366866960468781322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 16
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b705aea30a7b0850800000000000000
+      internalID: 6344298656315017137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 16
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de79f772ee92b2d00800000000000000
+      internalID: 948898249333250029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-AlecPurple-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 16
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50198aaabb239d0800000000000000
+      internalID: -2795966076996745775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: SpriteAnimationsConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SpriteAnimationsConfig
+  Sequences:
+  - Track: 0
+    Sprites:
+    - {fileID: -891189572491617096, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: -4487354684476639179, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: 8467981029285140304, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: -2561025567606551942, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+  - Track: 1
+    Sprites:
+    - {fileID: -1424459126723040390, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: -1903647522262933516, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+  - Track: 2
+    Sprites:
+    - {fileID: -6771939414229496330, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: 7939300158218618995, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: 2914025240830685960, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
+    - {fileID: -8391556961991446624, guid: e296a7b92cd99564e84b7159f55f5d96, type: 3}
