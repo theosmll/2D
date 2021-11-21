@@ -10,9 +10,6 @@ public class Lessons : MonoBehaviour
     private Transform groundCheck;
     [SerializeField]
     private SpriteRenderer _back;
-    public float speed = 1.0f;
-    public float jumpheight;
-    private bool isGrounded;
     //[SerializeField]
     //private SomeView _someView;
     //add links to test views <1>
@@ -32,10 +29,7 @@ public class Lessons : MonoBehaviour
 
     private void Update()
     {
-        CheckGround();
-        rb.velocity = new Vector2(Input.GetAxis("Horizontal") * speed, rb.velocity.y);
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-            rb.AddForce(transform.up * jumpheight, ForceMode2D.Impulse);
+
         //_someManager.Update();;
         //update logic managers here <5>
     }
@@ -52,10 +46,5 @@ public class Lessons : MonoBehaviour
         //dispose logic managers here <7>
     }
 
-    void CheckGround()
-    {
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(groundCheck.position, 1);
-        isGrounded = colliders.Length > 1;
-    }
 }
 

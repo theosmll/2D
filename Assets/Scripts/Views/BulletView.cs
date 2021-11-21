@@ -8,7 +8,6 @@ namespace PlatformerMVC
     {
         [SerializeField]
         private TrailRenderer _trail;
-
         public void SetVisible(bool visible)
         {
             if (_trail) _trail.enabled = visible;

@@ -15,7 +15,7 @@ namespace PlatformerMVC
         private int _currentIndex;
         private float _timeTillNextBullet;
 
-        public BulletsEmitter(List<BallView> bulletViews, Transform transform)
+        public BulletsEmitter(List<BulletView> bulletViews, Transform transform)
         {
             _transform = transform;
             foreach (var bulletView in bulletViews)
